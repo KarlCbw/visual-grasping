@@ -32,5 +32,9 @@ Provide a summary of Transparent Object Grasping <br>
 
 # Transparent Object Grasping
 ## 2023
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **IEEE Transactions on Robotics** | Visual–Tactile Fusion for Transparent Object Grasping in Complex Backgrounds | [Paper](https://ieeexplore.ieee.org/document/10175024)/[Code]()
+02 | **IEEE/ASME Transactions on Mechatronics** | Where Shall I Touch? Vision-Guided Tactile Poking for Transparent Object Grasping | [Paper](https://ieeexplore.ieee.org/document/9882387)/[Code]()
 
 
