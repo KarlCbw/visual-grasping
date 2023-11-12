@@ -68,10 +68,29 @@ You can find in [Paper](https://ieeexplore.ieee.org/document/9578275)
 You can find in [Paper](https://www.researchgate.net/publication/355061924_Seeing_Glass_Joint_Point_Cloud_and_Depth_Completion_for_Transparent_Objects)
 
 # Transparent Object Grasping
+
+## 2019
+**No.** | **Pub.** | **Title** | **Links** 
+01 | **IROS** | GlassLoc: Plenoptic Grasp Pose Detection in Transparent Clutter | [Paper](https://ieeexplore.ieee.org/document/8967685)/[Code]()
+
 ## 2023
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 01 | **IEEE Transactions on Robotics** | Visual–Tactile Fusion for Transparent Object Grasping in Complex Backgrounds | [Paper](https://ieeexplore.ieee.org/document/10175024)/[Code]()
 02 | **IEEE/ASME Transactions on Mechatronics** | Where Shall I Touch? Vision-Guided Tactile Poking for Transparent Object Grasping | [Paper](https://ieeexplore.ieee.org/document/9882387)/[Code]()
+03 | **ICRA** | GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF | [Paper](https://ieeexplore.ieee.org/document/10160842)/[Code]()
+
+## 2020
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **IEEE Robotics and Automation Letters** | Multi-Modal Transfer Learning for Grasping Transparent and Specular Objects | [Paper](https://ieeexplore.ieee.org/document/9001238)/[Code]()
+02 | **CVPR** | KeyPose: Multi-View 3D Labeling and Keypoint Estimation for Transparent Objects | [Paper](https://ieeexplore.ieee.org/document/9156424)/[Code]()
+
+## 2021
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 | **IROS** | Fuzzy-Depth Objects Grasping Based on FSG Algorithm and a Soft Robotic Hand | [Paper](https://ieeexplore.ieee.org/document/9636173)/[Code]()
+
+
 
 
