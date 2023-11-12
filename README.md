@@ -13,9 +13,9 @@ Provide a summary of Transparent Object Grasping <br>
 
 # Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-**Trans 10 K** // a transparent dataset with 10 428 real data, only has two limited categories  <br>
+**Trans 10 K**  a transparent dataset with 10 428 real data, only has two limited categories  <br>
 You can found in [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58601-0_41)
-**Trans10K-v2** // refined to 11 fine-grained categories of transparent objects   <br>
+**Trans10K-v2**  refined to 11 fine-grained categories of transparent objects   <br>
 You can found in [Paper](https://www.ijcai.org/proceedings/2021/165)
 **TRANS-AFF** a real-world dataset with affordances and depth maps of transparent objects   <br>
 You can found in [Paper](https://ieeexplore.ieee.org/document/9830881)   
