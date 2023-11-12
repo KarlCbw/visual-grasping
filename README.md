@@ -7,31 +7,24 @@ Provide a summary of Transparent Object Grasping <br>
 
 ## Content:
 
-1. <a href="#Pose Estimation of Transparent Object"> Pose Estimation of Transparent Object </a>
+1. <a href="#Transparent Object Dataset"> Transparent Object Dataset </a>
 2. <a href="#Transparent Object Grasping"> Transparent Object Grasping </a>
 --------------------------------------------------------------------------------------
 
-# Pose Estimation of Transparent Object
-## 2022
-**No.** | **Pub.** | **Title** | **Links** 
-:-: | :-: | :-  | :-: 
-01 | **IEEE Access ** | 6D Pose Estimation of Transparent Object From Single RGB Image for Robotic Manipulation | [Paper](https://ieeexplore.ieee.org/document/9931681)/[Code]()
+# Dataset <a id="Dataset" class="anchor" href="Dataset" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
 
-## 2021
-**No.** | **Pub.** | **Title** | **Links** 
-:-: | :-: | :-  | :-: 
-01 | **IROS** | GhostPose: Multi-view Pose Estimation of Transparent Objects for Robot Hand Grasping | [Paper](https://ieeexplore.ieee.org/document/9636459)/[Code]()
-
-## 2023
-**No.** | **Pub.** | **Title** | **Links** 
-:-: | :-: | :-  | :-: 
-01 | **IRAL** | TGF-Net: Sim2Real Transparent Object 6D Pose Estimation Based on Geometric Fusion | [Paper](https://ieeexplore.ieee.org/document/10103597)/[Code]()
-02 | **ICRA** | StereoPose: Category-Level 6D Transparent Object Pose Estimation from Stereo Images via Back-View NOCS | [Paper](https://ieeexplore.ieee.org/document/10160780)/[Code]()
-
-## 2020
-**No.** | **Pub.** | **Title** | **Links** 
-:-: | :-: | :-  | :-: 
-01 | ** Intelligent Sensors ** | 6DoF Pose Estimation of Transparent Object from a Single RGB-D Image | [Paper](https://www.mdpi.com/1424-8220/20/23/6790)/[Code]()
+**Trans 10 K** // a transparent dataset with 10 428 real data, only has two limited categories
+You can found in [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58601-0_41)
+**Trans10K-v2** // refined to 11 fine-grained categories of transparent objects
+You can found in [Paper](https://www.ijcai.org/proceedings/2021/165)
+**TRANS-AFF** a real-world dataset with affordances and depth maps of transparent objects
+You can found in [Paper](https://ieeexplore.ieee.org/document/9830881)
+**ClearGrasp** a synthetic dataset for depth-completion tasks
+You can found in [Paper](https://ieeexplore.ieee.org/document/9197518)
+**Dex-NeRF** a synthetic dataset for transparent object detection and localization
+You can found in [Paper](https://arxiv.org/abs/2110.14217)
+**LIT** a synthetic dataset for light-field cameras, as shown in Fig 
+You can found in [Paper](https://ieeexplore.ieee.org/document/9113653)
 --------------------------------------------------------------------------------------
 
 # Transparent Object Grasping
