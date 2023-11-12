@@ -1,7 +1,7 @@
 # Summary of Transparent Object Grasping
 
 Provide a summary of Transparent Object Grasping <br> 
-(**Paper, Code, Dataset, Evaluation and more**). 
+(**Paper, Code, Dataset and more**). 
 
 --------------------------------------------------------------------------------------
 
