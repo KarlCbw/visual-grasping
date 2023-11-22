@@ -38,8 +38,8 @@ You can find in [Paper](https://arxiv.org/abs/2110.14217)  <br>
 a synthetic dataset for light-field cameras, as shown in Fig  <br>
 You can find in [Paper](https://ieeexplore.ieee.org/document/9113653)  <br>
 
-**SimTrans12k** <br>
-multibackground transparent object-grasping dataset  <br>
+**SimTrans12k**  <br>
+a multibackground transparent object-grasping dataset  <br>
 You can find in [Paper](https://ieeexplore.ieee.org/document/10175024)  <br>
 --------------------------------------------------------------------------------------
 
