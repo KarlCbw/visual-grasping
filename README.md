@@ -1,4 +1,4 @@
-![image](https://github.com/KarlCbw/visual-grasping/assets/133490216/178f171d-9129-48f9-bef2-c6994fdd09d7)# Summary of Transparent Object Grasping
+# Summary of Transparent Object Grasping
 
 Provide a summary of Transparent Object Grasping <br> 
 (**Paper, Code, Dataset and more**). 
